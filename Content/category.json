@@ -1,57 +1,57 @@
 {
     "title": "Samsun Sofistike Yerler Rehberi",
-    "description": "Samsun şehrindeki en seçkin sofistike yerler ve popüler duraklar.",
-    "badge": "Sofistike Yerler",
+    "description": "Samsun şehrindeki en şık, kültür dolu, zarafet ve özgünlük sunan sofistike mekânlar.",
+    "badge": "Sofistike & Gurme Deneyim",
     "category": [
         {
-            "id": "samsun-sofistike-yerler-1",
-            "title": "Samsun Butik Sanat Galerisi ve Atölye",
-            "category_badge": "Kültür & Sanat",
-            "badge_icon": "fa-gem",
-            "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Samsun şehrinin eşsiz dokusunu yansıtan seçkin sanat eserlerinin sergilendiği, entelektüel buluşmaların adresi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "id": "samsun-yelken-kulubu",
+            "title": "Samsun Yelken Kulübü & Restoran",
+            "category_badge": "Deniz Kıyısı Şıklığı",
+            "badge_icon": "fa-anchor",
+            "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Karadeniz’in incisi Samsun'da marinaya nazır deniz ürünleri, eşsiz gün batımı ve marina atmosferi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/yelken-kulubu",
+            "button_text": "Restoranı Keşfet"
         },
         {
-            "id": "samsun-sofistike-yerler-2",
-            "title": "Samsun Nezih Kahve ve Tasarım Kafe",
-            "category_badge": "Gurme & Atmosfer",
-            "badge_icon": "fa-mug-hot",
-            "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Samsun şehrinin eşsiz dokusunu yansıtan özel demleme kahveleri ve sakin atmosferiyle seçkinlerin tercihi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "samsun-sofistike-yerler-3",
-            "title": "Samsun Tasarım Moda Sokağı",
-            "category_badge": "Lüks & Stil",
-            "badge_icon": "fa-shirt",
-            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Samsun şehrinin eşsiz dokusunu yansıtan özgün tasarım butiklerinin ve haute couture mağazaların yer aldığı şık sokak.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "samsun-sofistike-yerler-4",
-            "title": "Samsun Tarihi Butik Otel ve Konaklama",
-            "category_badge": "Aristokratik Dokunuş",
-            "badge_icon": "fa-hotel",
-            "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Samsun şehrinin eşsiz dokusunu yansıtan asırlık mimariyi lüks konforla buluşturan seçkin konaklama noktası.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "samsun-sofistike-yerler-5",
-            "title": "Samsun Manzaralı Çatı Katı Restoranı",
-            "category_badge": "Fine Dining",
-            "badge_icon": "fa-utensils",
+            "id": "atakum-sahil-bistrolari",
+            "title": "Atakum Marina & Gurme Bistrolar",
+            "category_badge": "Modern Sahil Yaşamı",
+            "badge_icon": "fa-martini-glass-citrus",
             "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Samsun şehrinin eşsiz dokusunu yansıtan şehrin siluetine nazır, ödüllü mutfağıyla üst düzey gastronomik deneyim.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "description": "Atakum kordonunda yer alan butik kahveciler, füzyon mutfaklar ve kaliteli canlı müzik mekânları.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/atakum-marina",
+            "button_text": "Kordonu İncele"
+        },
+        {
+            "id": "samsun-operasi",
+            "title": "Samsun Devlet Opera ve Balesi",
+            "category_badge": "Sahne Sanatları",
+            "badge_icon": "fa-masks-theater",
+            "image": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Karadeniz bölgesinin tek opera ve bale salonunda opera, bale ve klasik müzik temsilleri.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/opera-bale",
+            "button_text": "Biletleri Gör"
+        },
+        {
+            "id": "batipark-helikopter-lounge",
+            "title": "Batıpark Marina Lounge",
+            "category_badge": "Deniz & Rahatlama",
+            "badge_icon": "fa-water",
+            "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Deniz dolgu alanı üzerine kurulu Batıpark’ta palmiyeler altında özel lounge lezzetleri.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/batipark-lounge",
+            "button_text": "Lounge'u İncele"
+        },
+        {
+            "id": "samsun-golf-kulubu",
+            "title": "Samsun Büyükşehir Golf Kulübü",
+            "category_badge": "Prestijli Spor",
+            "badge_icon": "fa-flag-usa",
+            "image": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Türkiye'nin deniz üzerine dolgu yapılarak oluşturulan ilk ve tek golf sahasında seçkin bir spor tecrübesi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/golf-kulubu",
+            "button_text": "Sahayı Gör"
         }
     ]
 }
