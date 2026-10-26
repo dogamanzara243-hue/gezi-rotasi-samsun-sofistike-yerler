@@ -1,56 +1,57 @@
 {
     "title": "Samsun Sofistike Yerler Rehberi",
-    "description": "Samsun şehrindeki en öne çıkan sofistike yerler ve popüler noktalar.",
+    "description": "Samsun şehrindeki en seçkin sofistike yerler ve popüler duraklar.",
+    "badge": "Sofistike Yerler",
     "category": [
         {
-            "id": "sofistike-yerler-1",
-            "title": "Önemli Mekan 1 - Samsun",
-            "category_badge": "Popüler Durak",
-            "badge_icon": "fa-star",
-            "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=800&q=80",
-            "description": "Samsun şehrinin en çok ziyaret edilen ve beğenilen özel lokasyonlarından biri.",
-            "target_url": "#",
-            "button_text": "Detayları Gör"
-        },
-        {
-            "id": "sofistike-yerler-2",
-            "title": "Önemli Mekan 2 - Samsun",
-            "category_badge": "Kültür & Yaşam",
-            "badge_icon": "fa-landmark",
-            "image": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80",
-            "description": "Bölgenin dokusunu ve sosyal hayatını yansıtan tarihi ve modern buluşma noktası.",
-            "target_url": "#",
-            "button_text": "İncele"
-        },
-        {
-            "id": "sofistike-yerler-3",
-            "title": "Önemli Mekan 3 - Samsun",
-            "category_badge": "Gezgin Favorisi",
-            "badge_icon": "fa-compass",
-            "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=800&q=80",
-            "description": "Ziyaretçilerin rotalarından asla eksik etmediği atmosferik ve eşsiz bir nokta.",
-            "target_url": "#",
+            "id": "samsun-sofistike-yerler-1",
+            "title": "Samsun Butik Sanat Galerisi ve Atölye",
+            "category_badge": "Kültür & Sanat",
+            "badge_icon": "fa-gem",
+            "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Samsun şehrinin eşsiz dokusunu yansıtan seçkin sanat eserlerinin sergilendiği, entelektüel buluşmaların adresi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/",
             "button_text": "Keşfet"
         },
         {
-            "id": "sofistike-yerler-4",
-            "title": "Önemli Mekan 4 - Samsun",
-            "category_badge": "Özel Mimari",
-            "badge_icon": "fa-city",
-            "image": "https://images.unsplash.com/photo-1527838832700-548952f12098?auto=format&fit=crop&w=800&q=80",
-            "description": "Mimari yapısı ve çevresindeki estetik detaylarıyla göz kamaştıran bölge.",
-            "target_url": "#",
-            "button_text": "Göz At"
+            "id": "samsun-sofistike-yerler-2",
+            "title": "Samsun Nezih Kahve ve Tasarım Kafe",
+            "category_badge": "Gurme & Atmosfer",
+            "badge_icon": "fa-mug-hot",
+            "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Samsun şehrinin eşsiz dokusunu yansıtan özel demleme kahveleri ve sakin atmosferiyle seçkinlerin tercihi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/",
+            "button_text": "Keşfet"
         },
         {
-            "id": "sofistike-yerler-5",
-            "title": "Önemli Mekan 5 - Samsun",
-            "category_badge": "Simge Nokta",
-            "badge_icon": "fa-location-dot",
-            "image": "https://images.unsplash.com/photo-1590073844006-33379778ae09?auto=format&fit=crop&w=800&q=80",
-            "description": "Samsun gezisinde mutlaka görülmesi gereken simge mekanlardan biri.",
-            "target_url": "#",
-            "button_text": "Ziyaret Et"
+            "id": "samsun-sofistike-yerler-3",
+            "title": "Samsun Tasarım Moda Sokağı",
+            "category_badge": "Lüks & Stil",
+            "badge_icon": "fa-shirt",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Samsun şehrinin eşsiz dokusunu yansıtan özgün tasarım butiklerinin ve haute couture mağazaların yer aldığı şık sokak.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/",
+            "button_text": "Keşfet"
+        },
+        {
+            "id": "samsun-sofistike-yerler-4",
+            "title": "Samsun Tarihi Butik Otel ve Konaklama",
+            "category_badge": "Aristokratik Dokunuş",
+            "badge_icon": "fa-hotel",
+            "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Samsun şehrinin eşsiz dokusunu yansıtan asırlık mimariyi lüks konforla buluşturan seçkin konaklama noktası.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/",
+            "button_text": "Keşfet"
+        },
+        {
+            "id": "samsun-sofistike-yerler-5",
+            "title": "Samsun Manzaralı Çatı Katı Restoranı",
+            "category_badge": "Fine Dining",
+            "badge_icon": "fa-utensils",
+            "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Samsun şehrinin eşsiz dokusunu yansıtan şehrin siluetine nazır, ödüllü mutfağıyla üst düzey gastronomik deneyim.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-samsun-sofistike-yerler/",
+            "button_text": "Keşfet"
         }
     ]
 }
